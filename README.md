@@ -15,10 +15,10 @@ After querying the *hawaii.sqlite* database for weather records made in June and
 - Despite a 4 degree difference in both mean and median measurements, both June and December mean and median temperatures stay above 70 degrees. Again, a positive indication for year-round sustainability of the surf and ice cream shop.
 
 __June Temperature Summary Statistic__ <br>
-![june](june_temps_stats.png)
+![june](Images/june_temp_stats.png)
 
 __December Temperature Summary Statistics__ <br>
-![december](dec_temps_stats.png)
+![december](Images/dec_temp_stats.png)
 
 ## Summary
 
